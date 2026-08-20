@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 4th-year undergraduate in Computational Mathematics at Peking University. I am going to become a PhD in Applied Mathematics at Columbia University.
+I am a PhD in Applied Mathematics at Columbia University.
 My research lies at the intersection of high-dimensional PDEs, scientific computing, stochastic dynamics, and non-equilibrium Markov processes. I build theory-backed algorithms and scale them to high-dimensional experiments.
 Here is my [CV](resume/resume.pdf).
 
